@@ -1,0 +1,17 @@
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\bin\Debug\sql örnek.exe.config
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\bin\Debug\sql örnek.exe
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\bin\Debug\sql örnek.pdb
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\obj\Debug\sql örnek.csproj.AssemblyReference.cache
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\obj\Debug\sql örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\obj\Debug\sql_örnek.Properties.Resources.resources
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\obj\Debug\sql örnek.csproj.GenerateResource.cache
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\obj\Debug\sql örnek.csproj.CoreCompileInputs.cache
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\obj\Debug\sql örnek.exe
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\obj\Debug\sql örnek.pdb
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\obj\Debug\sql_örnek.frmistatistik.resources
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\obj\Debug\sql_örnek.FRManaform.resources
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\obj\Debug\sql_örnek.frmGrafikler.resources
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\bin\Debug\tr-TR\sql örnek.resources.dll
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\obj\Debug\sql_örnek.frmGiris.resources
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\obj\Debug\sql_örnek.frmGiris.tr-TR.resources
+C:\Users\cengiz\Desktop\murat yücedağ\sql örnek\sql örnek\obj\Debug\tr-TR\sql örnek.resources.dll
